@@ -2,7 +2,7 @@
 
 **Gets 2 of 5 real-world ESG sentences right, after 86.84% accuracy on the test set: a TF-IDF + Linear SVM sentiment classifier, and an honest look at why it breaks on real text.**
 
-![Demo app](portfolio/demo-screenshot.png)
+![Demo app](portfolio/screens/01-demo.png)
 
 ## The problem
 
